@@ -14,4 +14,4 @@ RM: average number of rooms per dwelling LSTAT: percentage of population conside
 
 Problems :
 
-Would you expect a home that has an 'RM' value(number of rooms) of 6 be worth more or less than a home that has an 'RM' value of 7?
+We would like to build a model using linear regression algorithm to be able to make accurate corrections for the median value of homes using features of the Boston Housing Data Set.
