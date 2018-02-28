@@ -67,3 +67,18 @@ Problem :
 
 3. Titanic Survival:
 
+I am plannig to use the ‘Titanic practice dataset’ from the Kaggle Competition (Titanic- Machine Learning from Disaster) to predict the types of passengers who are most likely to survive the disaster. In this project proposal, I provide a quick overview of the problem, the dataset.
+
+Description:
+
+The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships. One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class. In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
+
+Data Set:
+
+A quick review of the training & test datasets shows 12 variables with almost 1300 line items. Each row provides details about an individual passenger such as Age, sex, Passenger Class, family details etc. The independent variable would be the ‘Survived’ field with a binary (1/0) output. A detailed explanation of the data can be found in the kaggle data dictionary.
+
+Features:
+
+pclass : Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd) name : Name sex : Sex age : Age sibsp : Number of Siblings/Spouses Aboard parch : Number of Parents/Children Aboard ticket : Ticket Number fare : Passenger Fare cabin : Cabin embarked : Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton) Target Variable
+
+survival : Survival (0 = No; 1 = Yes)
