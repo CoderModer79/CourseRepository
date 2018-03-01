@@ -4,3 +4,4 @@ This repository includes Capstone Projects and mini projects of Springboard Data
 
 1st Capstone Project Proposal
 
+  Condition Based Maintenance of Naval Propulsion Plants Data Set
